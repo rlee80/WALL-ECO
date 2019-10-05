@@ -1,5 +1,5 @@
 # WALL-Eco
-<p>A smart trash can that is aimed to prevent contamination and promote environmental awareness and sustainability. Designed from the ground-up for user convenience, education, and usage in public spaces.</p>
+<p>A smart garbage can that is aimed to prevent contamination and promote environmental awareness and sustainability. Designed from the ground-up for user convenience, education, and usage in public spaces.</p>
 
 <p>Demo Video: https://vimeo.com/345117548</p>
 

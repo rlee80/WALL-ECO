@@ -11,7 +11,7 @@ camera_port = 0
 ramp_frames = 30
 
 image_url = "http://ambulo.serveo.net/image/img.jpg"
-auth = ('apikey', 'hSjAEiuBeXWx6JsfEemY54LHZUw1QX84KC21vWtdRTC3')
+auth = ('apikey', 'redacted')
 ip = "http://64.187.241.17:5000/image_proc"
 imgsrc = "/home/pi/Downloads/images/img.jpg"
 

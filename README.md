@@ -3,6 +3,8 @@
 
 <p>Demo Video: https://vimeo.com/345117548</p>
 
+Project Page: https://devpost.com/software/wall-eco
+
 # What it does
 <p>1. Sorts recyclables and nonrecyclables into two separate bins in the trash can by using machine learning.</p>
 <p>Just toss your trash in and WALL-ECO will do all the work! Worry less about trash contamination and have fun protecting the environment!</p>
